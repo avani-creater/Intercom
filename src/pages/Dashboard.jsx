@@ -1,6 +1,6 @@
-import ConversationList from "../components/conversationList"
+import ConversationList from "../components/ConversationList"
 import UserProfilePanel from "../components/UserProfilePanel";
-import ChatWindow from "../components/chatWindow";
+import ChatWindow from "../components/ChatWindow";
 function Dashboard(){
     return(
         <div className="flex flex-col md:flex-row h-screen">
